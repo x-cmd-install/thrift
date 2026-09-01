@@ -1,0 +1,91 @@
+about:
+  description: Apache Thrift
+  license: Apache-2.0
+  homepage: 
+  head: 75efeb1
+  archived: false
+  latestVersion: v0.24.0
+  collectedAt: 2026-09-01T04:59:32Z
+timeline:
+  created: 2009-09-18
+  lastCommit: 2026-08-31
+  lastRelease: 2026-07-11
+popularity:
+  star: 10954
+  watcher: 443
+  fork: 4105
+  release: 18
+  contributor: 525
+  pullRequest: 2280
+  issue: 0
+language:
+  C++: 5150985
+  Java: 1535001
+  C: 1167161
+  Go: 811521
+  PHP: 795713
+  Ruby: 737850
+  Pascal: 678139
+  D: 675561
+  Python: 655923
+  C#: 628804
+  JavaScript: 563829
+  Thrift: 537248
+  Rust: 485405
+  Haxe: 363392
+  Erlang: 363164
+  Makefile: 262350
+  Dart: 193715
+  M4: 173050
+  CMake: 151099
+  Perl: 143455
+  Lua: 96804
+  Shell: 89281
+  Kotlin: 58601
+  OCaml: 54506
+  TypeScript: 47757
+  Dockerfile: 43314
+  Common Lisp: 41010
+  HTML: 38557
+  Batchfile: 37669
+  StringTemplate: 30998
+  Yacc: 30812
+  PowerShell: 24619
+  Lex: 9802
+  Emacs Lisp: 5361
+  Vim Script: 2846
+  CSS: 1070
+totalLine: 16686372
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 62
+    openPR: 7
+    closedIssue: 0
+    openIssue: 0
+    commit: 62
+  last90d:
+    since: 2026-06-03
+    release: 1
+    mergedPR: 164
+    openPR: 12
+    closedIssue: 0
+    openIssue: 0
+    commit: 216
+  last180d:
+    since: 2026-03-05
+    release: 2
+    mergedPR: 387
+    openPR: 13
+    closedIssue: 0
+    openIssue: 0
+    commit: 514
+  last360d:
+    since: 2025-09-06
+    release: 2
+    mergedPR: 498
+    openPR: 13
+    closedIssue: 0
+    openIssue: 0
+    commit: 659
