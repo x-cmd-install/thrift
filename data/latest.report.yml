@@ -2,13 +2,13 @@ about:
   description: "Apache Thrift"
   license: Apache-2.0
   homepage: 
-  head: d6782a8
+  head: cd490de
   archived: false
   latestVersion: "v0.24.0"
-  collectedAt: 2026-09-08T02:55:31Z
+  collectedAt: 2026-09-08T05:38:11Z
 timeline:
   created: 2009-09-18
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastRelease: 2026-07-11
 popularity:
   star: 10957
@@ -22,7 +22,7 @@ language:
   C++: 5226759
   Java: 1525901
   C: 1184665
-  Go: 854612
+  Go: 855186
   PHP: 798304
   Ruby: 742680
   D: 699553
@@ -55,66 +55,66 @@ language:
   Emacs Lisp: 5361
   Vim Script: 2846
   CSS: 1070
-totalBytes: 16979165
+totalBytes: 16979739
 recent:
   last30d:
     since: 2026-08-09
     release: 0
-    mergedPR: 92
-    openPR: 14
+    mergedPR: 93
+    openPR: 13
     closedIssue: 0
     openIssue: 0
-    commit: 127
+    commit: 128
   last60d:
     since: 2026-07-10
     release: 1
-    mergedPR: 169
-    openPR: 16
+    mergedPR: 170
+    openPR: 15
     closedIssue: 0
     openIssue: 0
-    commit: 227
+    commit: 228
   last90d:
     since: 2026-06-10
     release: 1
-    mergedPR: 196
-    openPR: 18
+    mergedPR: 197
+    openPR: 17
     closedIssue: 0
     openIssue: 0
-    commit: 282
+    commit: 283
   last180d:
     since: 2026-03-12
     release: 2
-    mergedPR: 419
-    openPR: 18
+    mergedPR: 420
+    openPR: 17
     closedIssue: 0
     openIssue: 0
-    commit: 575
+    commit: 576
   last360d:
     since: 2025-09-13
     release: 2
-    mergedPR: 537
-    openPR: 18
+    mergedPR: 538
+    openPR: 17
     closedIssue: 0
     openIssue: 0
-    commit: 731
+    commit: 732
   last720d:
     since: 2024-09-18
     release: 4
-    mergedPR: 664
-    openPR: 18
+    mergedPR: 665
+    openPR: 17
     closedIssue: 0
     openIssue: 0
-    commit: 969
+    commit: 970
 total:
   release: 18
-  mergedPR: 1515
-  openPR: 18
+  mergedPR: 1516
+  openPR: 17
   closedIssue: 0
   openIssue: 0
-  commit: 8003
+  commit: 8004
 ---
 path: /home/runner/.x-repo/github.com/apache/thrift
-collectedAt: 2026-09-08T02:55:37Z
+collectedAt: 2026-09-08T05:38:16Z
 loc:
   Cpp:
     code: 86456
@@ -127,9 +127,9 @@ loc:
     blanks: 5554
     files: 300
   Go:
-    code: 21961
-    comments: 4827
-    blanks: 2803
+    code: 21972
+    comments: 4833
+    blanks: 2805
     files: 153
   C:
     code: 21865
@@ -387,9 +387,9 @@ loc:
     blanks: 83
     files: 9
 total:
-  code: 367553
-  comments: 101619
-  blanks: 71426
+  code: 367564
+  comments: 101625
+  blanks: 71428
   files: 2683
 ---
 date: "2026-09-07"
