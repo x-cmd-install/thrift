@@ -3,7 +3,7 @@
 Apache Thrift
 
 - **Upstream**: <https://github.com/apache/thrift>
-- **Homepage**: <>
+- **Homepage**: <https://thrift.apache.org/>
 - **Latest release**: `v0.24.0` (2026-07-11)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/thrift> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:38:27Z._
+_Last regenerated: 2026-09-09T20:06:25Z._
