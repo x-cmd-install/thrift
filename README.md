@@ -14,15 +14,15 @@ x install thrift
 
 ## Code insight
 
-Total: **369,042** lines of code across **893** files in the top 5 languages.
+Total: **369,224** lines of code across **895** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 86,889 | 13,680 | 14,185 | 209 |
-| Java | 29,969 | 10,572 | 5,554 | 300 |
+| Cpp | 87,058 | 13,713 | 14,198 | 211 |
+| Java | 29,970 | 10,572 | 5,554 | 300 |
 | Go | 22,271 | 4,976 | 2,853 | 156 |
 | C | 21,885 | 3,360 | 4,344 | 82 |
-| Php | 16,413 | 4,160 | 3,193 | 146 |
+| Php | 16,446 | 4,162 | 3,201 | 146 |
 
 ## OpenSSF Scorecard
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,957 · **Forks**: 4,110 · **Open issues**: 0 · **Contributors**: 517
+- **Stars**: 10,958 · **Forks**: 4,109 · **Open issues**: 0 · **Contributors**: 517
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 1527 · **Open PRs**: 28 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8043
+- **Releases**: 18 · **Merged PRs**: 1535 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8052
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 100 | 24 | 0 | 0 | 167 |
-| last60d | 2026-07-13 | 0 | 173 | 26 | 0 | 0 | 267 |
-| 90d | 2026-06-13 | 1 | 206 | 26 | 0 | 0 | 322 |
-| last180d | 2026-03-15 | 2 | 431 | 28 | 0 | 0 | 615 |
-| 360d | 2025-09-16 | 2 | 548 | 28 | 0 | 0 | 771 |
-| last720d | 2024-09-21 | 4 | 676 | 28 | 0 | 0 | 1008 |
+| 30d | 2026-08-12 | 0 | 108 | 25 | 0 | 0 | 176 |
+| last60d | 2026-07-13 | 0 | 181 | 27 | 0 | 0 | 276 |
+| 90d | 2026-06-13 | 1 | 214 | 27 | 0 | 0 | 331 |
+| last180d | 2026-03-15 | 2 | 439 | 29 | 0 | 0 | 624 |
+| 360d | 2025-09-16 | 2 | 556 | 29 | 0 | 0 | 780 |
+| last720d | 2024-09-21 | 4 | 684 | 29 | 0 | 0 | 1017 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:38:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:24:45Z._
