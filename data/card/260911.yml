@@ -2,12 +2,12 @@ about:
   description: "Apache Thrift"
   license: Apache-2.0
   homepage: https://thrift.apache.org/
-  head: df37658
+  head: 6b42e7f
   archived: false
   latestVersion: "v0.24.0"
   latestRelease: "v0.24.0"
   latestPrerelease: "lib/go/thrift/v0.0.1-do-not-use"
-  collectedAt: 2026-09-11T05:37:51Z
+  collectedAt: 2026-09-11T19:24:33Z
 timeline:
   created: 2009-09-18
   lastCommit: 2026-09-11
@@ -15,34 +15,34 @@ timeline:
   lastRelease: 2026-07-11
   lastPrerelease: 2021-10-18
 popularity:
-  star: 10957
+  star: 10958
   watcher: 444
-  fork: 4110
+  fork: 4109
   release: 18
   contributor: 517
-  pullRequest: 3826
+  pullRequest: 3835
   issue: 0
 language:
-  C++: 5253213
-  Java: 1525896
+  C++: 5262522
+  Java: 1525942
   C: 1186396
   Go: 871982
-  PHP: 813987
+  PHP: 815714
   Ruby: 755612
   D: 719103
   Python: 712857
   Pascal: 678139
   C#: 628804
-  JavaScript: 593147
-  Thrift: 553935
+  JavaScript: 594715
+  Thrift: 555740
   Rust: 485411
   Erlang: 384996
   Haxe: 363392
-  Makefile: 267150
+  Makefile: 267674
   Dart: 205595
   M4: 174407
   Perl: 161937
-  CMake: 153740
+  CMake: 153825
   Lua: 111229
   Shell: 89439
   Kotlin: 58601
@@ -55,78 +55,78 @@ language:
   Batchfile: 37669
   Yacc: 30812
   PowerShell: 24619
-  Lex: 9802
+  Lex: 10976
   Emacs Lisp: 5361
   Vim Script: 2846
   CSS: 1070
-totalBytes: 17128323
+totalBytes: 17144561
 recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 100
-    openPR: 24
+    mergedPR: 108
+    openPR: 25
     closedIssue: 0
     openIssue: 0
-    commit: 167
+    commit: 176
   last60d:
     since: 2026-07-13
     release: 0
-    mergedPR: 173
-    openPR: 26
+    mergedPR: 181
+    openPR: 27
     closedIssue: 0
     openIssue: 0
-    commit: 267
+    commit: 276
   last90d:
     since: 2026-06-13
     release: 1
-    mergedPR: 206
-    openPR: 26
+    mergedPR: 214
+    openPR: 27
     closedIssue: 0
     openIssue: 0
-    commit: 322
+    commit: 331
   last180d:
     since: 2026-03-15
     release: 2
-    mergedPR: 431
-    openPR: 28
+    mergedPR: 439
+    openPR: 29
     closedIssue: 0
     openIssue: 0
-    commit: 615
+    commit: 624
   last360d:
     since: 2025-09-16
     release: 2
-    mergedPR: 548
-    openPR: 28
+    mergedPR: 556
+    openPR: 29
     closedIssue: 0
     openIssue: 0
-    commit: 771
+    commit: 780
   last720d:
     since: 2024-09-21
     release: 4
-    mergedPR: 676
-    openPR: 28
+    mergedPR: 684
+    openPR: 29
     closedIssue: 0
     openIssue: 0
-    commit: 1008
+    commit: 1017
 total:
   release: 18
-  mergedPR: 1527
-  openPR: 28
+  mergedPR: 1535
+  openPR: 29
   closedIssue: 0
   openIssue: 0
-  commit: 8043
+  commit: 8052
 ---
 path: /home/runner/.x-repo/github.com/apache/thrift
-collectedAt: 2026-09-11T05:37:57Z
+collectedAt: 2026-09-11T19:24:39Z
 loc:
   Cpp:
-    code: 86889
-    comments: 13680
-    blanks: 14185
-    files: 209
+    code: 87058
+    comments: 13713
+    blanks: 14198
+    files: 211
   Java:
-    code: 29969
+    code: 29970
     comments: 10572
     blanks: 5554
     files: 300
@@ -141,9 +141,9 @@ loc:
     blanks: 4344
     files: 82
   Php:
-    code: 16413
-    comments: 4160
-    blanks: 3193
+    code: 16446
+    comments: 4162
+    blanks: 3201
     files: 146
   CHeader:
     code: 15816
@@ -166,7 +166,7 @@ loc:
     blanks: 3527
     files: 38
   Json:
-    code: 14350
+    code: 14355
     comments: 0
     blanks: 4
     files: 21
@@ -176,9 +176,9 @@ loc:
     blanks: 3174
     files: 113
   JavaScript:
-    code: 12535
-    comments: 4075
-    blanks: 1971
+    code: 12569
+    comments: 4081
+    blanks: 1977
     files: 99
   CSharp:
     code: 11511
@@ -186,10 +186,10 @@ loc:
     blanks: 2184
     files: 117
   Thrift:
-    code: 10001
-    comments: 5700
-    blanks: 2678
-    files: 236
+    code: 10005
+    comments: 5734
+    blanks: 2680
+    files: 237
   Rust:
     code: 9766
     comments: 1339
@@ -216,7 +216,7 @@ loc:
     blanks: 1188
     files: 52
   Automake:
-    code: 4568
+    code: 4583
     comments: 1843
     blanks: 1186
     files: 90
@@ -237,7 +237,7 @@ loc:
     files: 21
   CMake:
     code: 2372
-    comments: 995
+    comments: 996
     blanks: 458
     files: 43
   Sh:
@@ -265,16 +265,16 @@ loc:
     comments: 0
     blanks: 0
     files: 5
-  Xml:
-    code: 987
-    comments: 267
-    blanks: 167
-    files: 13
   Dockerfile:
     code: 888
     comments: 141
     blanks: 149
     files: 6
+  Xml:
+    code: 874
+    comments: 246
+    blanks: 148
+    files: 12
   Tex:
     code: 861
     comments: 24
@@ -306,7 +306,7 @@ loc:
     blanks: 49
     files: 15
   LLVM:
-    code: 317
+    code: 351
     comments: 0
     blanks: 30
     files: 1
@@ -382,8 +382,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 11863
-    blanks: 3652
+    comments: 11867
+    blanks: 3655
     files: 113
   Text:
     code: 0
@@ -391,10 +391,10 @@ loc:
     blanks: 79
     files: 8
 total:
-  code: 369909
-  comments: 102573
-  blanks: 71909
-  files: 2695
+  code: 370091
+  comments: 102632
+  blanks: 71922
+  files: 2697
 ---
 date: "2026-09-07"
 repo:
