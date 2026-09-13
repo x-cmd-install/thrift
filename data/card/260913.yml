@@ -558,4 +558,3 @@ checks:
       - 'Info:   3 out of   3 goCommand dependencies pinned'
       - 'Info:   2 out of   2 npmCommand dependencies pinned'
 ---
-{"id":352562781,"author":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAAS9U84VA65d","tag_name":"v0.24.0","target_commitish":"master","name":"Version 0.24.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-11T16:46:36Z","updated_at":"2026-07-11T16:48:47Z","published_at":"2026-07-11T16:48:47Z","assets":[],"body":"Please head over to the official release download source:\r\nhttp://thrift.apache.org/download\r\n\r\nThe assets listed below are added by Github based on the release tag and they will therefore not match the checkums published on the Thrift project website."}
