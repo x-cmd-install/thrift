@@ -14,11 +14,11 @@ x install thrift
 
 ## Code insight
 
-Total: **382,378** lines of code across **918** files in the top 5 languages.
+Total: **382,628** lines of code across **918** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 88,097 | 14,255 | 14,379 | 219 |
+| Cpp | 88,280 | 14,297 | 14,405 | 219 |
 | Java | 30,982 | 10,763 | 5,677 | 304 |
 | Go | 23,749 | 5,254 | 3,020 | 159 |
 | C | 22,851 | 3,525 | 4,532 | 85 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.24.0` (2026-07-11)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
-- **Stars**: 10,963 · **Forks**: 4,114 · **Open issues**: 0 · **Contributors**: 521
+- **Stars**: 10,964 · **Forks**: 4,114 · **Open issues**: 0 · **Contributors**: 521
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 1658 · **Open PRs**: 31 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8248
+- **Releases**: 18 · **Merged PRs**: 1662 · **Open PRs**: 30 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 182 | 25 | 0 | 0 | 264 |
-| last60d | 2026-07-31 | 0 | 250 | 28 | 0 | 0 | 380 |
-| 90d | 2026-07-01 | 1 | 319 | 29 | 0 | 0 | 486 |
-| last180d | 2026-04-02 | 2 | 530 | 31 | 0 | 0 | 781 |
-| 360d | 2025-10-04 | 2 | 672 | 31 | 0 | 0 | 970 |
-| last720d | 2024-10-09 | 3 | 800 | 31 | 0 | 0 | 1208 |
+| 30d | 2026-08-31 | 0 | 183 | 24 | 0 | 0 | 268 |
+| last60d | 2026-08-01 | 0 | 246 | 27 | 0 | 0 | 384 |
+| 90d | 2026-07-02 | 1 | 323 | 28 | 0 | 0 | 490 |
+| last180d | 2026-04-03 | 2 | 534 | 30 | 0 | 0 | 785 |
+| 360d | 2025-10-05 | 2 | 676 | 30 | 0 | 0 | 974 |
+| last720d | 2024-10-10 | 3 | 804 | 30 | 0 | 0 | 1212 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:30:13Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:19:28Z._
