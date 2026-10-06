@@ -26,13 +26,13 @@ Total: **383,453** lines of code across **919** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.4 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 5/20 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 167 | 22 | 0 | 0 | 222 |
-| last60d | 2026-08-06 | 1 | 256 | 26 | 0 | 0 | 412 |
-| 90d | 2026-07-07 | 2 | 333 | 27 | 0 | 0 | 510 |
-| last180d | 2026-04-08 | 3 | 544 | 29 | 0 | 0 | 786 |
-| 360d | 2025-10-10 | 3 | 693 | 29 | 0 | 0 | 1007 |
-| last720d | 2024-10-15 | 4 | 820 | 29 | 0 | 0 | 1243 |
+| 30d | 2026-09-06 | 1 | 166 | 22 | 0 | 0 | 222 |
+| last60d | 2026-08-07 | 1 | 256 | 26 | 0 | 0 | 412 |
+| 90d | 2026-07-08 | 2 | 333 | 27 | 0 | 0 | 510 |
+| last180d | 2026-04-09 | 3 | 541 | 29 | 0 | 0 | 786 |
+| 360d | 2025-10-11 | 3 | 693 | 29 | 0 | 0 | 1007 |
+| last720d | 2024-10-16 | 4 | 820 | 29 | 0 | 0 | 1243 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:20:21Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:17:27Z._
