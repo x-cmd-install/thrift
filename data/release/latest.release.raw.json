@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2803100,
       "digest": "sha256:c94286cb0422f02cbf0032931c85cfba5940e13efccf10c1f5cf21b1398fd666",
-      "download_count": 76,
+      "download_count": 81,
       "created_at": "2026-10-01T22:22:29Z",
       "updated_at": "2026-10-01T22:22:30Z",
       "browser_download_url": "https://github.com/apache/thrift/releases/download/v0.25.0/thrift-0.25.0-setup.exe"
