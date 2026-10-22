@@ -14,7 +14,7 @@ x install thrift
 
 ## Code insight
 
-Total: **389,787** lines of code across **920** files in the top 5 languages.
+Total: **389,943** lines of code across **920** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,959 · **Forks**: 4,116 · **Open issues**: 0 · **Contributors**: 521
+- **Stars**: 10,958 · **Forks**: 4,116 · **Open issues**: 0 · **Contributors**: 521
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1714 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8367
+- **Releases**: 19 · **Merged PRs**: 1715 · **Open PRs**: 28 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 81 | 20 | 0 | 0 | 110 |
-| last60d | 2026-08-22 | 1 | 263 | 22 | 0 | 0 | 450 |
-| 90d | 2026-07-23 | 1 | 329 | 23 | 0 | 0 | 525 |
-| last180d | 2026-04-24 | 3 | 551 | 26 | 0 | 0 | 830 |
-| 360d | 2025-10-26 | 3 | 726 | 26 | 0 | 0 | 1085 |
-| last720d | 2024-10-31 | 4 | 849 | 26 | 0 | 0 | 1315 |
+| 30d | 2026-09-22 | 1 | 77 | 22 | 0 | 0 | 111 |
+| last60d | 2026-08-23 | 1 | 259 | 24 | 0 | 0 | 451 |
+| 90d | 2026-07-24 | 1 | 329 | 25 | 0 | 0 | 526 |
+| last180d | 2026-04-25 | 3 | 551 | 28 | 0 | 0 | 831 |
+| 360d | 2025-10-27 | 3 | 727 | 28 | 0 | 0 | 1086 |
+| last720d | 2024-11-01 | 4 | 849 | 28 | 0 | 0 | 1316 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:27:39Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:28:24Z._
