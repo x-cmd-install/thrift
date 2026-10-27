@@ -20,7 +20,7 @@ Total: **390,876** lines of code across **920** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 89,562 | 14,706 | 14,577 | 221 |
 | Java | 31,115 | 10,790 | 5,696 | 304 |
-| Go | 23,822 | 5,274 | 3,029 | 159 |
+| Go | 23,822 | 5,282 | 3,029 | 159 |
 | C | 23,308 | 3,611 | 4,616 | 85 |
 | Php | 17,377 | 4,410 | 3,343 | 151 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.25.0` (2026-09-30)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-27
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,960 · **Forks**: 4,116 · **Open issues**: 0 · **Contributors**: 521
+- **Stars**: 10,961 · **Forks**: 4,117 · **Open issues**: 0 · **Contributors**: 522
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1728 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8382
+- **Releases**: 19 · **Merged PRs**: 1729 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 73 | 16 | 0 | 0 | 88 |
-| last60d | 2026-08-27 | 1 | 262 | 20 | 0 | 0 | 411 |
-| 90d | 2026-07-28 | 1 | 327 | 21 | 0 | 0 | 512 |
-| last180d | 2026-04-29 | 2 | 555 | 24 | 0 | 0 | 820 |
-| 360d | 2025-10-31 | 3 | 739 | 24 | 0 | 0 | 1092 |
-| last720d | 2024-11-05 | 4 | 862 | 24 | 0 | 0 | 1326 |
+| 30d | 2026-09-27 | 1 | 57 | 19 | 0 | 0 | 89 |
+| last60d | 2026-08-28 | 1 | 257 | 25 | 0 | 0 | 412 |
+| 90d | 2026-07-29 | 1 | 325 | 26 | 0 | 0 | 513 |
+| last180d | 2026-04-30 | 2 | 554 | 29 | 0 | 0 | 821 |
+| 360d | 2025-11-01 | 3 | 736 | 29 | 0 | 0 | 1093 |
+| last720d | 2024-11-06 | 4 | 863 | 29 | 0 | 0 | 1324 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:31:14Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:45:56Z._
