@@ -2,30 +2,30 @@ about:
   description: "Apache Thrift"
   license: Apache-2.0
   homepage: https://thrift.apache.org/
-  head: 01e1e6d
+  head: 3dffa00
   archived: false
   latestVersion: "v0.25.0"
   latestRelease: "v0.25.0"
   latestPrerelease: "lib/go/thrift/v0.0.1-do-not-use"
-  collectedAt: 2026-10-30T06:39:23Z
+  collectedAt: 2026-10-31T06:20:29Z
 timeline:
   created: 2009-09-18
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-31
   lastVersion: 2026-09-30
   lastRelease: 2026-09-30
   lastPrerelease: 2021-10-18
 popularity:
   star: 10960
   watcher: 440
-  fork: 4117
+  fork: 4119
   release: 19
   contributor: 524
-  pullRequest: 4054
+  pullRequest: 4057
   issue: 0
 language:
-  C++: 5478517
-  Java: 1600726
-  C: 1260415
+  C++: 5478532
+  Java: 1606251
+  C: 1277093
   Go: 948730
   PHP: 894759
   Ruby: 872314
@@ -33,17 +33,17 @@ language:
   D: 753355
   JavaScript: 749752
   Pascal: 690728
-  C#: 652478
-  Thrift: 578993
+  C#: 655782
+  Thrift: 584111
   Rust: 503106
   Erlang: 479725
-  Haxe: 406587
-  Makefile: 275523
+  Haxe: 426365
+  Makefile: 277011
   Dart: 218668
   Perl: 185061
   M4: 175277
   Lua: 168939
-  CMake: 159337
+  CMake: 159632
   PowerShell: 118766
   Shell: 102330
   StringTemplate: 67019
@@ -60,66 +60,66 @@ language:
   Emacs Lisp: 5361
   Vim Script: 2846
   CSS: 1070
-totalBytes: 18572020
+totalBytes: 18624221
 recent:
   last30d:
-    since: 2026-09-30
-    release: 1
-    mergedPR: 69
-    openPR: 9
+    since: 2026-10-01
+    release: 0
+    mergedPR: 57
+    openPR: 11
     closedIssue: 0
     openIssue: 0
-    commit: 128
+    commit: 133
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 1
-    mergedPR: 271
-    openPR: 14
+    mergedPR: 262
+    openPR: 16
     closedIssue: 0
     openIssue: 0
-    commit: 457
+    commit: 462
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 1
-    mergedPR: 336
-    openPR: 15
+    mergedPR: 337
+    openPR: 17
     closedIssue: 0
     openIssue: 0
-    commit: 558
+    commit: 563
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 2
     mergedPR: 563
-    openPR: 18
+    openPR: 20
     closedIssue: 0
     openIssue: 0
-    commit: 866
+    commit: 871
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 3
     mergedPR: 757
-    openPR: 18
+    openPR: 20
     closedIssue: 0
     openIssue: 0
-    commit: 1138
+    commit: 1143
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 4
-    mergedPR: 886
-    openPR: 18
+    mergedPR: 887
+    openPR: 20
     closedIssue: 0
     openIssue: 0
-    commit: 1367
+    commit: 1372
 total:
   release: 19
-  mergedPR: 1752
-  openPR: 18
+  mergedPR: 1753
+  openPR: 20
   closedIssue: 0
   openIssue: 0
-  commit: 8428
+  commit: 8433
 ---
 path: /home/runner/.x-repo/github.com/apache/thrift
-collectedAt: 2026-10-30T06:39:39Z
+collectedAt: 2026-10-31T06:20:34Z
 loc:
   Cpp:
     code: 90233
@@ -127,20 +127,20 @@ loc:
     blanks: 14677
     files: 224
   Java:
-    code: 31407
-    comments: 10866
-    blanks: 5736
-    files: 306
+    code: 31512
+    comments: 10889
+    blanks: 5754
+    files: 307
   Go:
     code: 24017
     comments: 5299
     blanks: 3051
     files: 159
   C:
-    code: 23498
-    comments: 3650
-    blanks: 4632
-    files: 86
+    code: 23825
+    comments: 3700
+    blanks: 4688
+    files: 87
   Ruby:
     code: 17829
     comments: 3283
@@ -182,15 +182,15 @@ loc:
     blanks: 3532
     files: 38
   CSharp:
-    code: 11876
-    comments: 2901
-    blanks: 2237
-    files: 120
+    code: 11927
+    comments: 2918
+    blanks: 2248
+    files: 121
   Thrift:
-    code: 10264
-    comments: 6116
-    blanks: 2769
-    files: 254
+    code: 10301
+    comments: 6211
+    blanks: 2789
+    files: 259
   Rust:
     code: 10158
     comments: 1360
@@ -207,19 +207,19 @@ loc:
     blanks: 1883
     files: 3
   Haxe:
-    code: 7714
-    comments: 2908
-    blanks: 1914
-    files: 88
+    code: 8089
+    comments: 2981
+    blanks: 1982
+    files: 90
   Dart:
     code: 4953
     comments: 1232
     blanks: 1245
     files: 53
   Automake:
-    code: 4727
+    code: 4743
     comments: 1856
-    blanks: 1203
+    blanks: 1204
     files: 90
   Lua:
     code: 4119
@@ -237,9 +237,9 @@ loc:
     blanks: 436
     files: 21
   CMake:
-    code: 2434
+    code: 2438
     comments: 1023
-    blanks: 472
+    blanks: 473
     files: 43
   PowerShell:
     code: 1998
@@ -277,7 +277,7 @@ loc:
     blanks: 148
     files: 12
   MsBuild:
-    code: 868
+    code: 872
     comments: 367
     blanks: 79
     files: 19
@@ -392,10 +392,10 @@ loc:
     blanks: 79
     files: 8
 total:
-  code: 395468
-  comments: 110532
-  blanks: 75782
-  files: 2825
+  code: 396387
+  comments: 110790
+  blanks: 75957
+  files: 2835
 ---
 date: "2026-10-26"
 repo:
@@ -600,4 +600,4 @@ checks:
       - 'Info:   0 out of  11 pipCommand dependencies pinned'
       - 'Info:   0 out of   4 downloadThenRun dependencies pinned'
 ---
-{"id":400462491,"author":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAAS9U84X3pKb","tag_name":"v0.25.0","target_commitish":"master","name":"Version 0.25.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-30T21:46:53Z","updated_at":"2026-10-01T22:22:30Z","published_at":"2026-09-30T21:48:52Z","assets":[{"id":604246446,"node_id":"RA_kwDOAAS9U84kBBGu","name":"thrift-0.25.0-setup.exe","label":"","uploader":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":2803100,"digest":"sha256:c94286cb0422f02cbf0032931c85cfba5940e13efccf10c1f5cf21b1398fd666","download_count":210,"created_at":"2026-10-01T22:22:29Z","updated_at":"2026-10-01T22:22:30Z"}],"body":"Please head over to the official release download source:\r\nhttp://thrift.apache.org/download\r\n\r\nThe assets listed below are added by Github based on the release tag and they will therefore not match the checkums published on the Thrift project website."}
+{"id":400462491,"author":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAAS9U84X3pKb","tag_name":"v0.25.0","target_commitish":"master","name":"Version 0.25.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-30T21:46:53Z","updated_at":"2026-10-01T22:22:30Z","published_at":"2026-09-30T21:48:52Z","assets":[{"id":604246446,"node_id":"RA_kwDOAAS9U84kBBGu","name":"thrift-0.25.0-setup.exe","label":"","uploader":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":2803100,"digest":"sha256:c94286cb0422f02cbf0032931c85cfba5940e13efccf10c1f5cf21b1398fd666","download_count":220,"created_at":"2026-10-01T22:22:29Z","updated_at":"2026-10-01T22:22:30Z"}],"body":"Please head over to the official release download source:\r\nhttp://thrift.apache.org/download\r\n\r\nThe assets listed below are added by Github based on the release tag and they will therefore not match the checkums published on the Thrift project website."}
