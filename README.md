@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,968 · **Forks**: 4,119 · **Open issues**: 0 · **Contributors**: 526
+- **Stars**: 10,968 · **Forks**: 4,123 · **Open issues**: 0 · **Contributors**: 526
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 68 | 9 | 0 | 0 | 140 |
-| last60d | 2026-09-04 | 1 | 256 | 12 | 0 | 0 | 406 |
-| 90d | 2026-08-05 | 1 | 344 | 14 | 0 | 0 | 572 |
-| last180d | 2026-05-07 | 2 | 577 | 17 | 0 | 0 | 871 |
-| 360d | 2025-11-08 | 3 | 770 | 17 | 0 | 0 | 1136 |
-| last720d | 2024-11-13 | 4 | 900 | 17 | 0 | 0 | 1386 |
+| 30d | 2026-10-05 | 0 | 68 | 9 | 0 | 0 | 140 |
+| last60d | 2026-09-05 | 1 | 253 | 12 | 0 | 0 | 406 |
+| 90d | 2026-08-06 | 1 | 344 | 14 | 0 | 0 | 572 |
+| last180d | 2026-05-08 | 2 | 575 | 17 | 0 | 0 | 871 |
+| 360d | 2025-11-09 | 3 | 770 | 17 | 0 | 0 | 1136 |
+| last720d | 2024-11-14 | 4 | 899 | 17 | 0 | 0 | 1386 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:38:30Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:11:36Z._
