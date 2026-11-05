@@ -30,7 +30,7 @@ x install thrift
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 7/28 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -43,27 +43,27 @@ x install thrift
 ## 发布
 
 - **最新版本**: `v0.25.0` (2026-09-30)
-- **最近提交**: 2026-11-03
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 10,968 · **Fork**: 4,123 · **开放 issue**: 0 · **贡献者**: 526
+- **Star**: 10,967 · **Fork**: 4,123 · **开放 issue**: 0 · **贡献者**: 527
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 1767 · **开放 PR**: 17 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 8447
+- **发布数**: 19 · **已合并 PR**: 1768 · **开放 PR**: 45 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 8448
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 68 | 9 | 0 | 0 | 140 |
-| last60d | 2026-09-05 | 1 | 253 | 12 | 0 | 0 | 406 |
-| 90d | 2026-08-06 | 1 | 344 | 14 | 0 | 0 | 572 |
-| last180d | 2026-05-08 | 2 | 575 | 17 | 0 | 0 | 871 |
-| 360d | 2025-11-09 | 3 | 770 | 17 | 0 | 0 | 1136 |
-| last720d | 2024-11-14 | 4 | 899 | 17 | 0 | 0 | 1386 |
+| 30d | 2026-10-06 | 0 | 69 | 37 | 0 | 0 | 141 |
+| last60d | 2026-09-06 | 1 | 253 | 40 | 0 | 0 | 407 |
+| 90d | 2026-08-07 | 1 | 345 | 42 | 0 | 0 | 573 |
+| last180d | 2026-05-09 | 2 | 573 | 45 | 0 | 0 | 872 |
+| 360d | 2025-11-10 | 3 | 770 | 45 | 0 | 0 | 1137 |
+| last720d | 2024-11-15 | 4 | 900 | 45 | 0 | 0 | 1386 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ thrift 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:11:38Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:38:28Z._
