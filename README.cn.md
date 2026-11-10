@@ -14,7 +14,7 @@ x install thrift
 
 ## 代码洞察
 
-合计: **398,225** 行代码（覆盖前 5 种语言、共 **914** 个文件）。
+合计: **398,817** 行代码（覆盖前 5 种语言、共 **914** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -22,7 +22,7 @@ x install thrift
 | Java | 32,721 | 11,058 | 5,850 | 314 |
 | Go | 24,085 | 5,309 | 3,064 | 159 |
 | C | 23,822 | 3,698 | 4,688 | 87 |
-| Ruby | 18,079 | 3,284 | 3,455 | 129 |
+| Ruby | 18,671 | 3,289 | 3,549 | 129 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,7 +30,7 @@ x install thrift
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -43,7 +43,7 @@ x install thrift
 ## 发布
 
 - **最新版本**: `v0.25.0` (2026-09-30)
-- **最近提交**: 2026-11-08
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 1 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install thrift
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 1798 · **开放 PR**: 64 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 8480
+- **发布数**: 19 · **已合并 PR**: 1800 · **开放 PR**: 66 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 8482
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 99 | 56 | 0 | 0 | 156 |
-| last60d | 2026-09-10 | 1 | 251 | 59 | 0 | 0 | 381 |
-| 90d | 2026-08-11 | 1 | 374 | 61 | 0 | 0 | 584 |
-| last180d | 2026-05-13 | 2 | 587 | 64 | 0 | 0 | 865 |
-| 360d | 2025-11-14 | 3 | 795 | 64 | 0 | 0 | 1147 |
-| last720d | 2024-11-19 | 4 | 927 | 64 | 0 | 0 | 1416 |
+| 30d | 2026-10-11 | 0 | 101 | 58 | 0 | 0 | 158 |
+| last60d | 2026-09-11 | 1 | 244 | 61 | 0 | 0 | 383 |
+| 90d | 2026-08-12 | 1 | 372 | 63 | 0 | 0 | 586 |
+| last180d | 2026-05-14 | 2 | 579 | 66 | 0 | 0 | 867 |
+| 360d | 2025-11-15 | 3 | 797 | 66 | 0 | 0 | 1149 |
+| last720d | 2024-11-20 | 4 | 929 | 66 | 0 | 0 | 1418 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ thrift 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:21:37Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:14:04Z._

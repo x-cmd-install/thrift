@@ -14,7 +14,7 @@ x install thrift
 
 ## Code insight
 
-Total: **398,225** lines of code across **914** files in the top 5 languages.
+Total: **398,817** lines of code across **914** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **398,225** lines of code across **914** files in the top 5 languages.
 | Java | 32,721 | 11,058 | 5,850 | 314 |
 | Go | 24,085 | 5,309 | 3,064 | 159 |
 | C | 23,822 | 3,698 | 4,688 | 87 |
-| Ruby | 18,079 | 3,284 | 3,455 | 129 |
+| Ruby | 18,671 | 3,289 | 3,549 | 129 |
 
 ## OpenSSF Scorecard
 
@@ -30,7 +30,7 @@ Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.25.0` (2026-09-30)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 1
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1798 · **Open PRs**: 64 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8480
+- **Releases**: 19 · **Merged PRs**: 1800 · **Open PRs**: 66 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 99 | 56 | 0 | 0 | 156 |
-| last60d | 2026-09-10 | 1 | 251 | 59 | 0 | 0 | 381 |
-| 90d | 2026-08-11 | 1 | 374 | 61 | 0 | 0 | 584 |
-| last180d | 2026-05-13 | 2 | 587 | 64 | 0 | 0 | 865 |
-| 360d | 2025-11-14 | 3 | 795 | 64 | 0 | 0 | 1147 |
-| last720d | 2024-11-19 | 4 | 927 | 64 | 0 | 0 | 1416 |
+| 30d | 2026-10-11 | 0 | 101 | 58 | 0 | 0 | 158 |
+| last60d | 2026-09-11 | 1 | 244 | 61 | 0 | 0 | 383 |
+| 90d | 2026-08-12 | 1 | 372 | 63 | 0 | 0 | 586 |
+| last180d | 2026-05-14 | 2 | 579 | 66 | 0 | 0 | 867 |
+| 360d | 2025-11-15 | 3 | 797 | 66 | 0 | 0 | 1149 |
+| last720d | 2024-11-20 | 4 | 929 | 66 | 0 | 0 | 1418 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:21:35Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:14:02Z._
