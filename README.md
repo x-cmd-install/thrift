@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.25.0` (2026-09-30)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-11
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,966 · **Forks**: 4,122 · **Open issues**: 0 · **Contributors**: 526
+- **Stars**: 10,968 · **Forks**: 4,122 · **Open issues**: 0 · **Contributors**: 526
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1800 · **Open PRs**: 66 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8482
+- **Releases**: 19 · **Merged PRs**: 1801 · **Open PRs**: 66 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8483
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 101 | 58 | 0 | 0 | 158 |
-| last60d | 2026-09-11 | 1 | 244 | 61 | 0 | 0 | 383 |
-| 90d | 2026-08-12 | 1 | 372 | 63 | 0 | 0 | 586 |
-| last180d | 2026-05-14 | 2 | 579 | 66 | 0 | 0 | 867 |
-| 360d | 2025-11-15 | 3 | 797 | 66 | 0 | 0 | 1149 |
-| last720d | 2024-11-20 | 4 | 929 | 66 | 0 | 0 | 1418 |
+| 30d | 2026-10-12 | 0 | 99 | 58 | 0 | 0 | 159 |
+| last60d | 2026-09-12 | 1 | 242 | 61 | 0 | 0 | 384 |
+| 90d | 2026-08-13 | 1 | 372 | 63 | 0 | 0 | 587 |
+| last180d | 2026-05-15 | 2 | 571 | 66 | 0 | 0 | 868 |
+| 360d | 2025-11-16 | 3 | 798 | 66 | 0 | 0 | 1150 |
+| last720d | 2024-11-21 | 4 | 929 | 66 | 0 | 0 | 1418 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:14:02Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:18:09Z._
