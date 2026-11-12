@@ -14,14 +14,14 @@ x install thrift
 
 ## Code insight
 
-Total: **398,817** lines of code across **914** files in the top 5 languages.
+Total: **398,737** lines of code across **916** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 90,552 | 14,940 | 14,710 | 225 |
+| Cpp | 90,574 | 14,980 | 14,719 | 227 |
 | Java | 32,721 | 11,058 | 5,850 | 314 |
 | Go | 24,085 | 5,309 | 3,064 | 159 |
-| C | 23,822 | 3,698 | 4,688 | 87 |
+| C | 23,799 | 3,704 | 4,694 | 87 |
 | Ruby | 18,671 | 3,289 | 3,549 | 129 |
 
 ## OpenSSF Scorecard
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1801 · **Open PRs**: 66 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8483
+- **Releases**: 19 · **Merged PRs**: 1812 · **Open PRs**: 57 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8494
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 99 | 58 | 0 | 0 | 159 |
-| last60d | 2026-09-12 | 1 | 242 | 61 | 0 | 0 | 384 |
-| 90d | 2026-08-13 | 1 | 372 | 63 | 0 | 0 | 587 |
-| last180d | 2026-05-15 | 2 | 571 | 66 | 0 | 0 | 868 |
-| 360d | 2025-11-16 | 3 | 798 | 66 | 0 | 0 | 1150 |
-| last720d | 2024-11-21 | 4 | 929 | 66 | 0 | 0 | 1418 |
+| 30d | 2026-10-13 | 0 | 109 | 50 | 0 | 0 | 169 |
+| last60d | 2026-09-13 | 1 | 250 | 52 | 0 | 0 | 395 |
+| 90d | 2026-08-14 | 1 | 379 | 54 | 0 | 0 | 598 |
+| last180d | 2026-05-16 | 2 | 582 | 57 | 0 | 0 | 879 |
+| 360d | 2025-11-17 | 3 | 808 | 57 | 0 | 0 | 1161 |
+| last720d | 2024-11-22 | 4 | 940 | 57 | 0 | 0 | 1429 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:18:09Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:21:17Z._
