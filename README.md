@@ -14,7 +14,7 @@ x install thrift
 
 ## Code insight
 
-Total: **403,491** lines of code across **919** files in the top 5 languages.
+Total: **403,549** lines of code across **919** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,970 · **Forks**: 4,131 · **Open issues**: 0 · **Contributors**: 526
+- **Stars**: 10,971 · **Forks**: 4,132 · **Open issues**: 0 · **Contributors**: 526
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1874 · **Open PRs**: 45 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8576
+- **Releases**: 19 · **Merged PRs**: 1877 · **Open PRs**: 45 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8579
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 134 | 39 | 0 | 0 | 186 |
-| last60d | 2026-09-22 | 1 | 235 | 40 | 0 | 0 | 338 |
-| 90d | 2026-08-23 | 1 | 418 | 41 | 0 | 0 | 668 |
-| last180d | 2026-05-25 | 2 | 609 | 45 | 0 | 0 | 916 |
-| 360d | 2025-11-26 | 3 | 854 | 45 | 0 | 0 | 1231 |
-| last720d | 2024-12-01 | 4 | 1002 | 45 | 0 | 0 | 1500 |
+| 30d | 2026-10-23 | 0 | 132 | 39 | 0 | 0 | 139 |
+| last60d | 2026-09-23 | 1 | 222 | 39 | 0 | 0 | 290 |
+| 90d | 2026-08-24 | 1 | 414 | 41 | 0 | 0 | 641 |
+| last180d | 2026-05-26 | 2 | 611 | 45 | 0 | 0 | 868 |
+| 360d | 2025-11-27 | 3 | 857 | 45 | 0 | 0 | 1221 |
+| last720d | 2024-12-02 | 4 | 1005 | 45 | 0 | 0 | 1503 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for thrift lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:36:04Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:15:25Z._
