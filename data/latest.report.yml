@@ -2,31 +2,31 @@ about:
   description: "Apache Thrift"
   license: Apache-2.0
   homepage: https://thrift.apache.org/
-  head: 31f3f51
+  head: 4f6ee42
   archived: false
   latestVersion: "v0.25.0"
   latestRelease: "v0.25.0"
   latestPrerelease: "lib/go/thrift/v0.0.1-do-not-use"
-  collectedAt: 2026-11-27T10:03:04Z
+  collectedAt: 2026-11-28T09:06:56Z
 timeline:
   created: 2009-09-18
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 2026-09-30
   lastRelease: 2026-09-30
   lastPrerelease: 2021-10-18
 popularity:
-  star: 10972
+  star: 10973
   watcher: 441
-  fork: 4132
+  fork: 4131
   release: 19
   contributor: 525
-  pullRequest: 4221
+  pullRequest: 4225
   issue: 0
 language:
   C++: 5575799
   Java: 1711550
-  C: 1302857
-  Ruby: 982608
+  C: 1303464
+  Ruby: 990656
   Go: 956131
   PHP: 902416
   Python: 864298
@@ -34,7 +34,7 @@ language:
   JavaScript: 787083
   D: 764725
   Pascal: 702010
-  Thrift: 595165
+  Thrift: 595242
   Rust: 503106
   Erlang: 480615
   Haxe: 472509
@@ -60,66 +60,66 @@ language:
   Emacs Lisp: 5361
   Vim Script: 2846
   CSS: 1070
-totalBytes: 19370361
+totalBytes: 19379093
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 135
-    openPR: 33
-    closedIssue: 0
-    openIssue: 0
-    commit: 174
-  last60d:
-    since: 2026-09-28
-    release: 1
-    mergedPR: 214
-    openPR: 33
-    closedIssue: 0
-    openIssue: 0
-    commit: 324
-  last90d:
-    since: 2026-08-29
-    release: 1
-    mergedPR: 421
     openPR: 35
     closedIssue: 0
     openIssue: 0
-    commit: 677
+    commit: 176
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 213
+    openPR: 35
+    closedIssue: 0
+    openIssue: 0
+    commit: 326
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 419
+    openPR: 37
+    closedIssue: 0
+    openIssue: 0
+    commit: 679
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 2
-    mergedPR: 594
-    openPR: 39
+    mergedPR: 586
+    openPR: 41
     closedIssue: 0
     openIssue: 0
-    commit: 904
+    commit: 906
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 3
-    mergedPR: 867
-    openPR: 39
+    mergedPR: 868
+    openPR: 41
     closedIssue: 0
     openIssue: 0
-    commit: 1257
+    commit: 1259
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 4
-    mergedPR: 1023
-    openPR: 39
+    mergedPR: 1025
+    openPR: 41
     closedIssue: 0
     openIssue: 0
-    commit: 1540
+    commit: 1542
 total:
   release: 19
-  mergedPR: 1895
-  openPR: 39
+  mergedPR: 1897
+  openPR: 41
   closedIssue: 0
   openIssue: 0
-  commit: 8616
+  commit: 8618
 ---
 path: /home/runner/.x-repo/github.com/apache/thrift
-collectedAt: 2026-11-27T10:03:09Z
+collectedAt: 2026-11-28T09:07:02Z
 loc:
   Cpp:
     code: 91738
@@ -132,8 +132,8 @@ loc:
     blanks: 5985
     files: 318
   C:
-    code: 24324
-    comments: 3763
+    code: 24331
+    comments: 3765
     blanks: 4782
     files: 87
   Go:
@@ -142,9 +142,9 @@ loc:
     blanks: 3072
     files: 159
   Ruby:
-    code: 19981
-    comments: 3415
-    blanks: 3763
+    code: 20113
+    comments: 3428
+    blanks: 3786
     files: 129
   Php:
     code: 17538
@@ -187,9 +187,9 @@ loc:
     blanks: 4
     files: 21
   Thrift:
-    code: 10440
+    code: 10444
     comments: 6361
-    blanks: 2825
+    blanks: 2826
     files: 266
   Rust:
     code: 10158
@@ -392,9 +392,9 @@ loc:
     blanks: 79
     files: 8
 total:
-  code: 407995
-  comments: 113738
-  blanks: 77952
+  code: 408138
+  comments: 113753
+  blanks: 77976
   files: 2902
 ---
 date: "2026-11-23"
@@ -617,4 +617,4 @@ checks:
       - 'Info:   0 out of  19 containerImage dependencies pinned'
       - 'Info:   0 out of   4 chocoCommand dependencies pinned'
 ---
-{"id":400462491,"author":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAAS9U84X3pKb","tag_name":"v0.25.0","target_commitish":"master","name":"Version 0.25.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-30T21:46:53Z","updated_at":"2026-10-01T22:22:30Z","published_at":"2026-09-30T21:48:52Z","assets":[{"id":604246446,"node_id":"RA_kwDOAAS9U84kBBGu","name":"thrift-0.25.0-setup.exe","label":"","uploader":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":2803100,"digest":"sha256:c94286cb0422f02cbf0032931c85cfba5940e13efccf10c1f5cf21b1398fd666","download_count":551,"created_at":"2026-10-01T22:22:29Z","updated_at":"2026-10-01T22:22:30Z"}],"body":"Please head over to the official release download source:\r\nhttp://thrift.apache.org/download\r\n\r\nThe assets listed below are added by Github based on the release tag and they will therefore not match the checkums published on the Thrift project website."}
+{"id":400462491,"author":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAAS9U84X3pKb","tag_name":"v0.25.0","target_commitish":"master","name":"Version 0.25.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-30T21:46:53Z","updated_at":"2026-10-01T22:22:30Z","published_at":"2026-09-30T21:48:52Z","assets":[{"id":604246446,"node_id":"RA_kwDOAAS9U84kBBGu","name":"thrift-0.25.0-setup.exe","label":"","uploader":{"login":"Jens-G","id":5834733,"node_id":"MDQ6VXNlcjU4MzQ3MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":2803100,"digest":"sha256:c94286cb0422f02cbf0032931c85cfba5940e13efccf10c1f5cf21b1398fd666","download_count":567,"created_at":"2026-10-01T22:22:29Z","updated_at":"2026-10-01T22:22:30Z"}],"body":"Please head over to the official release download source:\r\nhttp://thrift.apache.org/download\r\n\r\nThe assets listed below are added by Github based on the release tag and they will therefore not match the checkums published on the Thrift project website."}
